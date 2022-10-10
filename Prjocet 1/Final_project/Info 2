@@ -1,0 +1,3 @@
+The project is divided, the one python file will contain all the excersises 1 through 5.
+the file labeled as project 1 excersise 6 will contain the terrain data.
+this way was done to not run on old data functions such as the franke function, when switching between uppdates.

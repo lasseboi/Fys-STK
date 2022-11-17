@@ -1,4 +1,5 @@
 # Fys-STK
-A fun place to hang out with friends and deposit your uppdated codes
+All project folders are marked with project #
 
-Project folders are the actual projects, within each folder more information is provided. 
+For each project go to the folder labeled project #, example project 2 go to the folder named project 2.
+

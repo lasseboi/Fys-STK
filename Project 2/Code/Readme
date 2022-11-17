@@ -1,1 +1,11 @@
 Here you will find all the final comit of the codes. 
+
+NN_ contains the test run of the neural network. Creating og surfaces and also testing the classification case.
+
+nn_classification is the tuning and full analysis of the breast cancer data
+
+nn_regression is the tuning and analysis of the Franke function regression.
+
+OLS and Ridge contains both SGD and GD analysis tunning and investigation of parameters and ccomparison of different gradient descent methods.
+
+Logistic regression contains the logistic regression code 

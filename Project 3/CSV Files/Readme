@@ -1,2 +1,4 @@
 CSV Files saved and used for the neural network analysis.
+
+PCA_90 means enough features to describe 90\% of the variance
 Can also be found in the various PCA codes

@@ -2,4 +2,5 @@ Here you will find all the code,
 Each notebook has a name for whats inside
 WBCD = breast cancer data
 Wine =  Wine recognition data
+codes marked with nn in start are my own written neural network.
 etc

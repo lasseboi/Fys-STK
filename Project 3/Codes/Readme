@@ -3,4 +3,5 @@ Each notebook has a name for whats inside
 WBCD = breast cancer data
 Wine =  Wine recognition data
 codes marked with nn in start are my own written neural network.
+codes marked with PCA is the Illustration and making of the principal component
 etc
